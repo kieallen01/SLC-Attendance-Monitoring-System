@@ -1,0 +1,32 @@
+html, body {
+height: 100%;
+margin: 0;
+}
+.wrapper {
+min-height: 100%;
+margin-bottom: -25px;
+}
+.footer,.push {
+height: 25px;
+width:100%;
+}
+.footer{
+font-size: 12px;
+}
+#system{
+font-size:40px;
+font-weight: bold;
+font-family:Monotype Corsiva;
+color:rgba(0,0,160,1);
+}
+#example td{
+	font-size: 12px;
+}
+#example th{
+	font-size: 12px;
+	text-align: center;
+}
+.wrapper{
+	margin-bottom: 20px;
+}
+
